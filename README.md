@@ -3,8 +3,8 @@
     
 # BNF: (Backus Naur-Form)
 
-    https://en.wikipedia.org/wiki/Backus–Naur_form
-    https://zh.wikipedia.org/wiki/扩展巴科斯范式
+ https://en.wikipedia.org/wiki/Backus–Naur_form
+ https://zh.wikipedia.org/wiki/扩展巴科斯范式
 
 # Grammer example:
     left recursive:
