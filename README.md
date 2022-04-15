@@ -22,4 +22,6 @@
         
 # implementation method:
     And gate eq. if --> switch case --> state machine
-
+    
+    And : if then else
+    Makov Chain: state machine (switch case)
